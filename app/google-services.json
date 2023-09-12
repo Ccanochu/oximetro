@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753238661242",
+    "project_id": "pulsos-8237c",
+    "storage_bucket": "pulsos-8237c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753238661242:android:78746bbfecb33b8a50c3c3",
+        "android_client_info": {
+          "package_name": "ucv.android.pulsos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ND3cMssOL9qAIZB2wCoJi_YGWUGFjjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
